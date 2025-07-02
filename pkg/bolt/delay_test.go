@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/ThreeDotsLabs/watermill"
-	"github.com/ThreeDotsLabs/watermill-bolt/pkg/bolt"
 	"github.com/ThreeDotsLabs/watermill/components/delay"
 	"github.com/ThreeDotsLabs/watermill/message"
+	"github.com/chaindead/watermill-bolt/pkg/bolt"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"go.etcd.io/bbolt"

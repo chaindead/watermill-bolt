@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/ThreeDotsLabs/watermill"
-	"github.com/ThreeDotsLabs/watermill-bolt/pkg/bolt"
 	"github.com/ThreeDotsLabs/watermill/message"
 	"github.com/ThreeDotsLabs/watermill/pubsub/tests"
+	"github.com/chaindead/watermill-bolt/pkg/bolt"
 	"github.com/stretchr/testify/require"
 	"go.etcd.io/bbolt"
 )

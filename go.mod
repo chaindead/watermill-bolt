@@ -1,4 +1,4 @@
-module github.com/ThreeDotsLabs/watermill-bolt
+module github.com/chaindead/watermill-bolt
 
 go 1.22
 

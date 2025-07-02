@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ThreeDotsLabs/watermill-bolt/pkg/bolt"
 	"github.com/ThreeDotsLabs/watermill/message"
+	"github.com/chaindead/watermill-bolt/pkg/bolt"
 	"github.com/stretchr/testify/require"
 )
 
